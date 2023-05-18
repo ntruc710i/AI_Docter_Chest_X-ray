@@ -2,10 +2,9 @@
 ##
 ## Giao diện
 ### Trang chủ
-![image](https://github.com/ntruc710i/AI_Docter_Chest_X-ray/assets/53004514/8c4d6437-0433-4369-a0b9-86ac94188633)
+![image](https://github.com/ntruc710i/AI_Docter_Chest_X-ray/assets/53004514/75a9a75c-94d3-4a08-90ae-f5916c5c008f)
 ### Kết quả 
-![image](https://github.com/ntruc710i/AI_Docter_Chest_X-ray/assets/53004514/3f9cb91c-0d5f-4433-9a92-3d6f54532561)
-![image](https://github.com/ntruc710i/AI_Docter_Chest_X-ray/assets/53004514/2b21d5aa-2a3c-4b87-8b50-512daed35828)
+![image](https://github.com/ntruc710i/AI_Docter_Chest_X-ray/assets/53004514/7b24c043-c218-41f9-bcb8-33a204c5e44a)
+![image](https://github.com/ntruc710i/AI_Docter_Chest_X-ray/assets/53004514/9a626c51-ee18-4fb3-bedd-2affaa493ebe)
 rang quản lý
-![image](https://github.com/ntruc710i/AI_Docter_Chest_X-ray/assets/53004514/d7d7a1b0-69fa-4854-8402-ac7c1c946db8)
-
+![image](https://github.com/ntruc710i/AI_Docter_Chest_X-ray/assets/53004514/9560147f-fb12-4178-bb30-1b33de70738d)
