@@ -41,7 +41,7 @@ async def startup_db_client():
     app.mongodb_client = AsyncIOMotorClient("mongodb://localhost:27017")
     app.mongodb = app.mongodb_client["AIDoctor"]
 
-
+#API Chest Xray Abnomalities
 @app.post("/yolov8")
 async def chest_xray(file: UploadFile = File(...)):
     try:
@@ -61,7 +61,7 @@ async def chest_xray(file: UploadFile = File(...)):
         "label": lbrs
     }
     return response
-
+#API Covid19 Detected
 @app.post("/covid19")
 async def covid19_xray(file: UploadFile = File(...)):
     try:
