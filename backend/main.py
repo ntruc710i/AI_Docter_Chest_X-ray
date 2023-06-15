@@ -58,7 +58,8 @@ async def chest_xray(file: UploadFile = File(...)):
     response = {
         "success": True,
         "image": get_base64_png(pr_viz),
-        "label": lbrs
+        "label": lbrs,
+        "pred" : "None"
     }
     return response
 #API Covid19 Detected
